@@ -1,6 +1,6 @@
 # Flask API
 
-API with Python and Flask
+Payment service API using Python and Flask
 
 ## Built With
 
